@@ -1,0 +1,1 @@
+.pth文件是什么，在 PyTorch 中用 torch.save() 序列化保存的二进制权重/状态字典（或任意 Python 对象）。常用来做模型 checkpoint。.pth并非官方规范，也没有固定含义；社区口头把 “PyTorch Checkpoint” 简写成 “p-t-h”。有开发者解释成 “path” 的缩写，更多人直接认为是 PyTorch的首尾字母。实质上：后缀是任意的——改成 .pt、.bin 依旧能 torch.load()。但 .pth/.pt 已成为事实上的习惯。

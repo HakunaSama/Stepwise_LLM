@@ -1,0 +1,1 @@
+这里和MicroCortex中的训练代码完全一致，放在这里只是供读者专心阅读LoRA部分，本部分没有太多知识，直接阅读源码即可，本部分使用的dataset是SFT的dataset，所以没有给出dataset。

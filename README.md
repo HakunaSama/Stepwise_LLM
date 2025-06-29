@@ -10,7 +10,7 @@
 
 项目目录
 
-1. [手写SelfAttention](./1.手写SelfAttention)
+1. [手写SelfAttention](1.手写SelfAttention)
 2. [手写MultiHeadAttention](./2.手写MultiHeadAttention)
 3. [手写GroupQueryAttention](./3.手写GroupQueryAttention)
 4. [手写TransformerDecoder](./4.手写TransformerDecoder)
